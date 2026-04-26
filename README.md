@@ -22,7 +22,8 @@ How to Use
 
 1. Upload code to Arduino from Arduino IDE and to processing 4
 2. Run processing 4 - see animation on screen
-3. place object front of ultrasonic sensor and you can see RED Detection Area
+3. Place Sensor on servo.
+4. Place object front of ultrasonic sensor and you can see RED Detection Area
 
 Future Improvements
 
